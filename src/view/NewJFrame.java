@@ -13,7 +13,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
     //Declaration de laliste 
     public static  ArrayList<Etudiant> etudiant = new ArrayList<Etudiant>();
-    
+    //Bonjours soulaymane
      
    
     public NewJFrame() {
